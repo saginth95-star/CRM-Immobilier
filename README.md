@@ -1,5 +1,6 @@
 # CRM-Immobilier
 
-Pack prêt à copier-coller pour construire un CRM immobilier professionnel sur Google Sheets + Apps Script :
+Version actuelle : **V2 orientée utilisateur** (agent immobilier), simple et rapide à utiliser.
 
-- Voir `PACK_CRM_IMMOBILIER.md`.
+- Pack complet prêt à copier-coller : `PACK_CRM_IMMOBILIER.md`
+- Inclus : structure onglets, `Code.gs` unique, matching client-bien indépendant, dashboard terrain, guide d'installation.
